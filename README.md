@@ -1,3 +1,7 @@
+##모두의 계산기##
+본 프로젝트는 React 페이지로 계산기 기능을 갖고 있는 홈페이지를 제작하고 더 나아가 React Native를 이용하여 모바일 어플리케이션 개발을 목표로 하고 있습니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
